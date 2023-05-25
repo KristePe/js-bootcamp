@@ -13,9 +13,10 @@ body {
   font-family: "Sen", sans-serif;
 }
 
-ul {
+.nav-bar ul {
   display: flex;
   justify-content: space-between;
+  width: 100%;
 }
 
 li {
