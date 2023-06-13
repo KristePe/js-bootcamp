@@ -1,3 +1,6 @@
+
+// ********************************
+
 // First function: If statements
 
 function isPositive (number) {
@@ -27,5 +30,18 @@ function isPositive (number) {
     })
   );
   // Output: Name: John Johny, Age: 30, Occupation: Driver
+
+// ***********************************
+
+
+const myArray = ["Viola", "Kristina", "Simona", "Ieva", "Zymante"]
+const arrayMethodsFunc = (array) => {
+    const copyOfArary = [...array];
+     array.push("Mustafa");
+
+     return array;
+}
+
+console.log
 
 
