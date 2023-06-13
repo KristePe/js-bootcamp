@@ -26,7 +26,7 @@ console.log(mapArray);
 //.every
 const everyArray = [];
 for (let i = 0; i < myArray.length; i++) {
-    let item = myArray[i];
+    let item = myArray[i];}
    
     console.log(item.fruit);
 
